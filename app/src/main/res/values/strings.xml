@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="text">This is a TextView</string>
+    <string name="edit_text">Type Text in the EditText</string>
+    <string name="button_text">Button</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="cavemen">Cavemen</string>
+    <string name="astronauts">Astronauts</string>
+    <string-array name="spinner_values">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+    <string name="starbuzz_logo">Starbuzz Logo</string>
+    <string name="click_me">Button</string>
+</resources>
